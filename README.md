@@ -1,4 +1,4 @@
- Autonomous-watering-and-monitering-gardening-system
+# Autonomous-watering-and-monitering-gardening-system
  Part used:
  1 Arduino UNO
  2 1602 LCD Display
